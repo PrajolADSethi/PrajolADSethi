@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @PrajolADSethi
-- 👀 I’m interested in Data Science and building my own company 
+- 👋 Hi, I’m @PrajolADSethi 
 - 🌱 I’m currently learning Djang,Python,Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
